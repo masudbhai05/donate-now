@@ -1,0 +1,79 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+/*---------------------
+ Start section here  
+ ---------------------*/
+.hero-section {
+    width: 50%;
+    height: 300px;
+    padding-top: 130px;
+    margin: 0px 375px;
+}
+
+.hero-section h1 {
+    font-size: 50px;
+    font-weight: 900;
+    color: white;
+    text-align: center;
+}
+
+.hero-section p {
+    text-align: center;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.hero-section a {
+    text-decoration: none;
+    background-color: #f53a49;
+    padding: 15px 20px;
+    color: white;
+    font-weight: 700;
+    margin: 0px 300px;
+    border-radius: 5px;
+}
+
+.header-main {
+    height: 700px;
+    background-image: url(images/donation13.jpg);
+    background-size: 100%;
+
+
+}
+
+/*---------------------
+ End section here  
+ ---------------------*/
+.donate-today {
+    width: 58%;
+    height: 300px;
+    padding-top: 130px;
+    margin: 0px 340px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.amount {
+    display: flex;
+}
+
+.amount h1 {
+    font-size: 25px;
+    font-weight: 700;
+    background-color: #f1ecec;
+    border-radius: 5px;
+    padding: 40px 40px;
+    margin: 0 10px;
+}
+
+#taka-200 {
+    border: 3px solid #fb5873;
+    background-color: #fcd2d5;
+
+}
