@@ -26,7 +26,7 @@ body {
     margin-bottom: 40px;
 }
 
-.hero-section a {
+.button {
     text-decoration: none;
     background-color: #f53a49;
     padding: 15px 20px;
@@ -69,11 +69,20 @@ h1 {
     background-color: #f1ecec;
     border-radius: 5px;
     padding: 40px 40px;
-    margin: 0 10px;
+    margin: 20px 10px;
 }
 
 #taka-200 {
     border: 3px solid #fb5873;
     background-color: #fcd2d5;
 
+}
+
+#input-taka {
+    border: none;
+    border-bottom: 2px solid #fd9696;
+    font-size: 20px;
+    text-align: center;
+    padding: 13px 317px;
+    margin: 30px 6px;
 }
