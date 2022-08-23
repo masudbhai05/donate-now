@@ -47,11 +47,13 @@ body {
 /*---------------------
  End section here  
  ---------------------*/
+
+/* start donate today  */
 .donate-today {
     width: 58%;
     height: 300px;
     padding-top: 130px;
-    margin: 0px 340px;
+    margin: 20px 340px;
     text-align: center;
 }
 
@@ -85,4 +87,43 @@ h1 {
     text-align: center;
     padding: 13px 317px;
     margin: 30px 6px;
+}
+
+/* end donate today */
+
+.Our-Donate-Plan {
+    width: 58%;
+    height: 300px;
+    padding-top: 130px;
+    margin: 100px 340px;
+    text-align: center;
+}
+
+.donate-plan {
+    display: flex;
+}
+
+.donate-plan div {
+    width: 400px;
+    text-align: left;
+    border-radius: 5px;
+    margin: 28px 7px;
+    padding: 17px 20px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+#children-food {
+    background-color: #e2f0fd;
+}
+
+#children-fund {
+    background-color: #ffe4ea;
+}
+
+#family-fund {
+    background-color: #fdede4;
 }
